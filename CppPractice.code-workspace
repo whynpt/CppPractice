@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "STL"
+		},
+		{
+			"path": "RingBuffer"
+		},
+		{
+			"path": "DesignParten"
+		},
+		{
+			"path": "note"
+		},
+                {
+                        "path": "build.sh"
+                },
+	]
+}
